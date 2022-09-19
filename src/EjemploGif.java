@@ -6,6 +6,8 @@ public class EjemploGif {
 		System.out.println( " HOLA ALUMNOS ");
 		
 		String a="Gustavo";
+		
+		System.out.println( a);
 
 	}
 
